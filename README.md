@@ -37,7 +37,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/educbraga/be-the-hero/
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd be-the-hero
