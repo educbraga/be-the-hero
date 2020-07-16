@@ -18,11 +18,6 @@ Outros:
 
   - [Express](https://expressjs.com/pt-br/)
   - [KnexJS](http://knexjs.org/)
-  - [Toast Notification](https://github.com/jossmac/react-toast-notifications)
-  
-  - [EditorConfig](https://editorconfig.org/)
-  - [ESLint](https://eslint.org/)
-  - [Prettier](https://prettier.io/)
   
 ### Como rodar este projeto
 
@@ -63,7 +58,7 @@ $ npm run dev ou yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ git clone https://github.com/educbraga/be-the-hero/
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd be-the-hero
@@ -84,7 +79,7 @@ $ npm start ou yarn start
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/ialexanderbrito/be-the-hero
+$ $ git clone https://github.com/educbraga/be-the-hero/
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd be-the-hero
