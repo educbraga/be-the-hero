@@ -1,3 +1,5 @@
+![Tela Inicial do Be The Hero](https://user-images.githubusercontent.com/21699905/114511203-fdb5f380-9c0d-11eb-9735-aee95587ea2d.png)
+
 ### O Projeto
 
 O <b>Be the Hero</b> conecta instituições de caridade e doadores através de uma plataforma Web e mobile(iOS e Android).
